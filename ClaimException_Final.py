@@ -1,7 +1,7 @@
 """This code is to extract the following features from claims text data 
 	1. Total number of claims 
 	2. Number of dependent claims 
-	3. Number of independent claims
+	3. Number of independent claims 
 	4. Length of first independent claim"""
 
 """
